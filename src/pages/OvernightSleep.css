@@ -1,0 +1,14 @@
+.buttonContainer {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+ion-button {
+  --width: 100px;
+  --border-radius: 10px;
+  --border-color: blue;
+  --border-style: solid;
+  --border-width: 2px;
+}
